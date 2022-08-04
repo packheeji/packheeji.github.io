@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  ko_KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 멋사 강의 블로그
+title:                 박희지의 포트폴리오
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   멋쟁이 사자처럼 함께 따라하면서 배우는 GitBlog
 
 # A shorter description for the sidebar.
-tagline:               면접관이 좋아하는 GitBlog
+tagline:               배화여자대학교 박희지
 
 # A list of keywords for your blog
 keywords:              [AI, git, gitblog, data science]
