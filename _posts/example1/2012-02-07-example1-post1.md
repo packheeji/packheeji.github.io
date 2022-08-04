@@ -2,13 +2,14 @@
 layout: post
 title: Example1-post1
 subtitle: 부제목 예시
-tags: 태그
+tags: heeji
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
 hide_last_modified: false
 categories:
   - example1
+  //카테고리를 정해주는 거
 ---
 
 # Example1-post1
